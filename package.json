@@ -1,0 +1,19 @@
+{
+  "name": "tns-digital-solutions",
+  "version": "1.0.0",
+  "description": "TnS Digital Solutions - Next-Gen AI Automation & Digital Marketing Platform",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "tns-digital-solutions",
+    "ai-automation",
+    "whatsapp-marketing",
+    "linkedin-leadgen",
+    "web-development"
+  ],
+  "author": "TnS Digital Solutions",
+  "license": "MIT"
+}
